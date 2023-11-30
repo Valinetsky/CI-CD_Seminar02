@@ -1,4 +1,4 @@
-# CI/CD. Семинар 02
+# CI/CD. Семинар 02. Continuous integration (непрерывная интеграция)
 
 ## Задача
 Переписать test stage для тестирования docker
